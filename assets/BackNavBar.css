@@ -1,0 +1,30 @@
+.navbar-brand:hover,#navbarNav a:hover{
+    color:rgb(221, 178, 97);
+}
+
+.bgCol{
+    background-color: #6c584c;
+    font-family:"Quicksand";
+}
+
+.UserLoggedIn{
+    margin-left: 250px;
+}
+
+#brandCol{
+    color: wheat;
+    font-size: 25px;
+    font-family:"Quicksand";
+    font-style: italic;
+}
+
+#navbarNav a{
+    color:wheat;
+    font-size: 20px;
+    font-family:"Quicksand";
+}
+
+
+
+
+

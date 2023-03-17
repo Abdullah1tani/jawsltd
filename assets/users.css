@@ -1,0 +1,116 @@
+body{
+    margin: 0%;
+    padding:0%;
+    font-family: "Quicksand";
+    background-color:#FFE4DE;
+    background-image: url('../assets/Pictures/background6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1540px 900px;
+
+}
+
+.subhead{
+  padding:1%;
+  font-size: 40px;
+  font-family: "Quicksand";
+  font-style:italic;
+  text-align: left;
+  text-shadow: 0 2.6px 8px black;
+  color:white;
+}
+
+.table{
+    padding:1%;
+    margin: 1%;
+    text-align: center;
+    background-color: rgba(255,255,255, 0.6);
+    width: 700px;
+    table-layout: fixed;
+}
+
+.tableButton{
+    margin-left:6px;
+    vertical-align: middle;
+    margin-top: 3px;
+    background-color: #a98467;
+    color:white;
+}
+
+.tableButton:hover{
+    background-color: rgb(204, 10, 10);
+    color:white;
+}
+
+.main-page{
+    font-size: 1.2em;
+}
+
+.extraForm{
+    margin: 0;
+    padding: 0;
+}
+
+#categories{
+
+    background-color:#e9caaf;
+}
+
+#addUser{
+    background-color: #a98467;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 40px;
+    margin-left: 1%;
+    border:black;
+    box-shadow: 1px 1px 10px 2px white;
+}
+
+#addUser:hover{
+    background-color:green;
+    color: white;
+
+}
+
+#navbarNav{
+
+    text-shadow: 0 2.6px 8px black;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+#brandCol{
+
+    text-shadow: 0 2.6px 8px black;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: none;
+
+}
+
+#removeButton{
+    background-color: #a98467;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    box-shadow: 2px 2px 10px 2px;
+    color: white;
+    border-radius: 40px;
+    margin-left: 10px;
+}
+
+#removeButton:hover{
+    background-color:#E3242B;
+}
+
+#search{
+    margin: 1%;
+    border-radius: 40px;
+    width: 250px;
+    border: 0cm;
+    margin-right: 0px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

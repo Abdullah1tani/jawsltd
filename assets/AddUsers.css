@@ -1,0 +1,64 @@
+body{
+    margin: 0%;
+    padding:0%;
+    font-family: "Quicksand";
+    color: white;
+    text-shadow: 0 2.6px 8px black;
+    font-size: 20px;
+    font-weight: 500;
+    background-color:#FFE4DE;
+    background-image: url('../assets/Pictures/background5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1570px 1157px;
+}
+
+h2{
+
+    font-family: "Quicksand";
+    font-style: italic;
+}
+
+#navbarNav{
+    text-shadow: 0 2.6px 8px black;
+    font-size: 20px;
+    font-weight: 500;
+  
+  }
+
+  #employee, #supervisor{
+    margin-right: 8px;
+    margin-left: 10px;
+  }
+  
+  #brandCol{
+    text-shadow: 0 2.6px 8px black;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: none;
+  }
+
+#submitButton{
+    background-color: #a98467;
+    border: black;
+    width: 35%;
+    margin-left: 32.5%;
+    border-radius: 40px;
+    box-shadow: 1px 1px 10px 2px white;
+}
+
+#submitButton:hover{
+    color: white;
+    background-color: #7f4f24;
+    border-color: none;
+}
+
+.UserRow{
+    margin-top: 3%;
+}
+
+.extraForm{
+    margin: 0;
+    padding: 0;
+}
