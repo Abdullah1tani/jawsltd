@@ -1,6 +1,6 @@
 # jawsltd
 
-**Demo video**: Download the demo video from the **jawsltd release** by clicking this [link](https://github.com/Abdullah1tani/jawsltd/releases/tag/video) or you can watch on [youtube](https://youtu.be/oKNpZRpL0nU).
+**Demo video**: Download the demo video from the **jawsltd release** by clicking this [link](https://github.com/Abdullah1tani/jawsltd/releases/tag/video) or you can watch it on [youtube](https://youtu.be/oKNpZRpL0nU).
 
 ## Installation guide
 
