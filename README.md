@@ -2,8 +2,6 @@
 
 **Demo video**: Download the demo video from the **jawsltd release** by clicking this [link](https://github.com/Abdullah1tani/jawsltd/releases/tag/video) or you can watch it on [youtube](https://youtu.be/oKNpZRpL0nU).
 
-**Website**: https://p6k6tg-8080.csb.app/Back-end/SignIn.php
-
 ## Installation guide
 
 1. Install **php** on your machine
